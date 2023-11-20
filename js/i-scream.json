@@ -36,6 +36,39 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Stupendous Strawberry",
+      "calories": 425,
+      "type": "frozen yogurt",
+      "ingredients": [
+        "wild strawberries",
+        "milk chocolate dip",
+        "candy sprinkles"
+      ],
+      "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Fantastic French Vanilla",
+      "calories": 390,
+      "type": "ice cream",
+      "ingredients": [
+        "vanilla bean extract",
+        "cream",
+        "sugar"
+      ],
+      "image": "ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Awesome Apple Cinnamon",
+      "calories": 375,
+      "type": "ice cream",
+      "ingredients": [
+        "apple puree",
+        "cinnamon",
+        "brown sugar"
+      ],
+      "image": "ice-cream-xtra2.svg"
     }
   ]
 }
